@@ -1,5 +1,3 @@
-# Bank-Loan-Report-SQL-Tableau-Data-Analysis
-Developed an end-to-end Bank Loan Analysis project using SQL and Tableau to derive actionable insights on loan performance, defaults, and borrower behavior.
 # 🏦 Bank Loan Report — SQL & Tableau Data Analysis
 
 Developed an end-to-end Bank Loan Analysis project using SQL and Tableau to derive actionable insights on loan performance, defaults, and borrower behavior.
